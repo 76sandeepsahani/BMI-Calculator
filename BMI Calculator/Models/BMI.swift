@@ -14,3 +14,4 @@ struct BMI
     let advice:String
     let color:UIColor
 }
+//This is a user defined data type
