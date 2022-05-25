@@ -6,3 +6,8 @@ This is a basic BMI calculator app for iOS device.User interface of this app is 
 
 This app uses MVC design pattern.
 
+# App in action
+
+
+https://user-images.githubusercontent.com/82876741/170319514-121ec433-70ad-4bce-9ec7-6f21ecfc5b7a.mov
+
