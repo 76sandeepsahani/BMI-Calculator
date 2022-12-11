@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/sandeepsahanicodes/BMI-Calculator/master/BMI%20Calculator/Assets.xcassets/AppIcon.appiconset/180.png" alt="pp Logo"/>
+</p>
+
 # Basic-BMI-Calculator
 
 ## About this app
